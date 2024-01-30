@@ -6,9 +6,9 @@ This project is supposed to be a project to make a Portfolio so that i can use i
 
 ### Tech Stack
 
-**Front-end:** React, CSS, JS, HTML, BootStrap
+**Front-end:** Vue, CSS, JS, HTML, BootStrap
 
-**Back-end:** Node, ASP.Net
+**Back-end:** Node.js
 
 Might add more while i am creating this project.
 
