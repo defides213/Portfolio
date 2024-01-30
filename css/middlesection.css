@@ -1,0 +1,22 @@
+.middlesection {
+    height: 700px;
+    display: grid;
+    gap: 40px;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+h1.title {
+    width: 40px;
+    font-size: 400%;
+    letter-spacing: 2px;
+    text-wrap: balance;
+    font-family: 'Anton', sans-serif;
+}

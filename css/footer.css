@@ -1,0 +1,15 @@
+.footerSparkles {
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px 250px 250px 250px 250px; 
+    grid-template-rows: 150px 150px 150px 150px 150px 150px 150px 150px;
+}
+
+.circleSParkle {
+    background-color: rgba(255, 255, 255, 0.048);
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
+.cirlceDown {
+    margin-top: 40px;
+}

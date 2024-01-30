@@ -1,0 +1,27 @@
+.navwrapper {
+    background-color: white;
+    height: 50px;
+}
+.navbar {
+}
+
+.navbutton {
+    font-weight: bold;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 120px;
+    padding: 7px;
+    border: #25232e 1px solid;
+    border-radius: 30px;
+    background-color: inherit;
+    font-size: medium;
+    color: inherit;
+}
+
+button.navbutton:before {
+    
+}
+
+button.navbutton:hover {
+    cursor: pointer;
+}
